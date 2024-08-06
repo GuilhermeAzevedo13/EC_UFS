@@ -1,0 +1,94 @@
+SciDAVis 2.2.7 project file
+<scripting-lang>	muParser
+<windows>	2
+<table>
+4339
+<table creation_time="2023-31-03 13:49:09:058" caption_spec="%n%C{ - }%c" name="Table1" columns="4" rows="30"><comment><![CDATA[]]></comment><column creation_time="2023-31-03 13:49:09:058" caption_spec="%n%C{ - }%c" name="tempo" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2023-31-03 13:49:09:058" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2023-31-03 13:49:09:059" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.1160000000000001e+00</row><row type="TypeDouble" index="1" invalid="no">6.6230000000000000e-01</row><row type="TypeDouble" index="2" invalid="no">1.0486000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">1.2013000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">1.1501999999999999e+00</row></column><column creation_time="2023-31-03 13:49:09:059" caption_spec="%n%C{ - }%c" name="tempo error" type="TypeDouble" mode="Numeric" plot_designation="xErr"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2023-31-03 13:49:09:059" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2023-31-03 13:49:09:059" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">5.1999999999999998e-03</row><row type="TypeDouble" index="1" invalid="no">2.9999999999999997e-04</row><row type="TypeDouble" index="2" invalid="no">4.4999999999999997e-03</row><row type="TypeDouble" index="3" invalid="no">3.3999999999999998e-03</row><row type="TypeDouble" index="4" invalid="no">2.0000000000000000e-03</row></column><column creation_time="2023-31-03 13:49:18:205" caption_spec="%n%C{ - }%c" name="Delta X" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2023-31-03 13:49:18:205" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2023-31-03 13:49:18:205" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">6.9320000000000004e-01</row><row type="TypeDouble" index="1" invalid="no">2.5640000000000002e-01</row><row type="TypeDouble" index="2" invalid="no">6.2480000000000002e-01</row><row type="TypeDouble" index="3" invalid="no">7.9920000000000002e-01</row><row type="TypeDouble" index="4" invalid="no">7.4309999999999998e-01</row></column><column creation_time="2023-31-03 13:49:18:411" caption_spec="%n%C{ - }%c" name="Delta X Error" type="TypeDouble" mode="Numeric" plot_designation="yErr"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2023-31-03 13:49:18:411" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2023-31-03 13:49:18:411" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">5.0000000000000001e-04</row><row type="TypeDouble" index="1" invalid="no">5.0000000000000001e-04</row><row type="TypeDouble" index="2" invalid="no">5.0000000000000001e-04</row><row type="TypeDouble" index="3" invalid="no">5.0000000000000001e-04</row><row type="TypeDouble" index="4" invalid="no">5.0000000000000001e-04</row></column><column_width column="0">120</column_width><column_width column="1">131</column_width><column_width column="2">120</column_width><column_width column="3">137</column_width></table>
+geometry	0	0	575	300	
+
+</table>
+<multiLayer>
+Graph1	1	1	sexta-feira, 31 de março de 2023 13:55:36 Hora oficial do Brasil
+geometry	maximized	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	1293	209
+Alignement	0	0
+<graph>
+ggeometry	5	3	1338	268
+PlotTitle	SEGUNDA MASSA	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	TEMPO (s)	ΔX(m)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	5124	5124	5124	5124
+TitleFont	MS Shell Dlg 2	11	50	0	0	0
+ScaleFont0	MS Shell Dlg 2	11	50	0	0	0
+ScaleFont1	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	11	50	0	0	0
+ScaleFont3	MS Shell Dlg 2	8	75	0	0	0
+AxisFont0	MS Shell Dlg 2	11	50	0	0	0
+AxisFont1	MS Shell Dlg 2	8	50	0	0	0
+AxisFont2	MS Shell Dlg 2	8	50	0	0	0
+AxisFont3	MS Shell Dlg 2	8	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_tempo	Table1_Delta X	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	4	1
+ErrorBars	0	Table1_tempo	Table1_Delta X	Table1_tempo error	1	8	#ff000000	1	1	1
+ErrorBars	1	Table1_tempo	Table1_Delta X	Table1_Delta X Error	1	8	#ff000000	1	1	1
+FunctionCurve	0,NonLinearFit1,x,0.6623,1.2013	100			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	16	64		2	0	-2077766944	388	1
+<formula>
+a=0.559914446627137
+
+a*x*x
+</formula>
+scale	0	0.2	0.9	0	8	5	0	0
+scale	1	0.2	0.9	0	8	5	0	0
+scale	2	0.6	1.3	0	8	5	0	0
+scale	3	0.6	1.3	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	3	
+MinorTicks	3	3	3	3	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+</graph>
+</multiLayer>
+<log>
+[sexta-feira, 31 de março de 2023 13:54:41 Hora oficial do Brasil	Plot: ''Graph1'']
+Non-linear fit of dataset: Table1_tempo error, using function: a*x*x
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0,6623 to x = 1,2013
+a  = 0,00281611264263675 +/- 0,000579929083474939
+--------------------------------------------------------------------------------------
+Chi^2 = 9,12823769284377e-06
+R^2 = 0,854969213650401
+---------------------------------------------------------------------------------------
+Iterations = 1
+Status = success
+---------------------------------------------------------------------------------------
+[sexta-feira, 31 de março de 2023 13:55:52 Hora oficial do Brasil	Plot: ''Graph1'']
+Non-linear fit of dataset: Table1_Delta X, using function: a*x*x
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0,6623 to x = 1,2013
+a  = 0,559914446627137 +/- 0,00332888407186078
+--------------------------------------------------------------------------------------
+Chi^2 = 0,000300769987137632
+R^2 = 0,999858631522558
+---------------------------------------------------------------------------------------
+Iterations = 1
+Status = success
+---------------------------------------------------------------------------------------
+</log>
