@@ -1,0 +1,58 @@
+1° Unidade
+
+Introdução de algoritmos e técnicas de projeto:
+https://drive.google.com/file/d/11wpB8wqeb4S7dgdavOuA7j0l7KZgz2bF/view?usp=sharing
+
+Eficiência computacional e notação O:
+https://drive.google.com/file/d/14B_CHLhIQ1jPrxh4AdHTmf8nbMXTH8eS/view?usp=sharing
+
+Relações de recorrência:
+https://drive.google.com/file/d/13Bs9wnUot4J1RITtDD_D9IwIFAJ6l-pe/view?usp=sharing
+
+Força bruta e indução matemática:
+https://drive.google.com/file/d/1_4MreKmBfYqjQ0rf1XUiqBefaTwDOmaj/view?usp=sharing
+
+Ordenação com Mergesort:
+https://drive.google.com/file/d/1qXiTEAZEkVPwB7sD46mYCetd-yIlPbdr/view?usp=sharing
+
+Ordenação com Quicksort:
+https://drive.google.com/file/d/1iWCZKCGbasON8ijCwa0BoabpYpRgWWh4/view?usp=sharing
+
+Ordenação com Heapsort:
+https://drive.google.com/file/d/141cngvsahrTy9MlhMzJNEQELBdHAE3HO/view?usp=sharing
+
+Limite inferior de ordenação e ordenação linear:
+https://drive.google.com/file/d/1FsGHYAywvyIec6uaO4kkXUTyqad6gVx1/view?usp=sharing
+
+
+2° Unidade
+
+Programação dinâmica:
+https://drive.google.com/file/d/1kcbvQdP7MPueQtUs-vzPRquku7CEHHvX/view?usp=sharing
+
+Busca em cadeias (Força bruta e Rabin-Karp):
+https://drive.google.com/file/d/1QfnPY3RGk_tZvRwGEch5ri2SFybIn7fs/view?usp=sharing
+
+Busca em cadeias (KMP):
+https://drive.google.com/file/d/1oMAyXbMyPAImVk5qAVFXGADVqYbV0ABD/view?usp=sharing
+
+Compressão de dados:
+https://drive.google.com/file/d/1rf-ogOy-7LYN_uOXA7XwlhcJQ_0Fzfo9/view?usp=sharing
+
+Geometria computacional:
+https://drive.google.com/file/d/1POt-LUbXnbUGjLvz5JLzgRmMZEG5iOJK/view?usp=sharing
+
+
+3° Unidade
+
+Backtracking e branch-and-bound:
+https://drive.google.com/file/d/1cSK8cJWaTAEjnejDM3nkeVn5bawySkns/view?usp=sharing
+
+Algoritmos numéricos:
+https://drive.google.com/file/d/1RlphzxOb9gB7vkTired9IQ0Y39x4XblZ/view?usp=sharing
+
+Criptografia:
+https://drive.google.com/file/d/1dxuxOtxMerzF8S0omTgZG_Ussh6yo0TU/view?usp=sharing
+
+Algoritmos probabilísticos:
+https://drive.google.com/file/d/10D-yeABPDv0KWN2fwhXiEYFBjiue7b06/view?usp=sharing 

@@ -1,0 +1,95 @@
+Apresentação (14/11/2023 - 14/11/2023) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+Introdução (16/11/2023 - 16/11/2023) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/18A2nK5ke70pk3HPG8F28O8CQZkypyzDD/view?usp=sharing
+
+Conjunto de instruções da arquitetura (21/11/2023 - 21/11/2023) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/13f0abHl9bH3tNkPXXFcHQgS7u55LaNk_/view?usp=sharing
+
+Registradores e memória (23/11/2023 - 23/11/2023) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1LO4PFr2QgfyPiqb0YWvYJFp-y5z8MG9Y/view?usp=sharing
+
+Linguagem de máquina e de montagem (28/11/2023 - 28/11/2023) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1WBSMqMimlfT5YUvnUZznTl-BTUfdCXlZ/view?usp=sharing
+
+Aula prática (30/11/2023 - 30/11/2023) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+Aritmética binária (05/12/2023 - 05/12/2023) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1_LyiJCeoGRzBuOVESbUb47c8lCgLa-zZ/view?usp=sharing
+
+Controle de fluxo (07/12/2023 - 07/12/2023) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1kIhhcAkHCGdnYiZHZBo4X-YKASqqpyww/view?usp=sharing
+
+Aula prática (12/12/2023 - 12/12/2023) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+Controle e processamento (14/12/2023 - 14/12/2023) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1_8WTLB7jZyeXjgSjkrGJS4OidE53qRnQ/view?usp=sharing
+
+Aula prática (19/12/2023 - 19/12/2023) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+Primeira prova (21/12/2023 - 21/12/2023) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+Local: ???
+
+Horário: 15:00 até 16:40
+
+Link: https://bruno.dcomp.ufs.br/aulas/arq/prova
+
+Software básico (16/01/2024 - 16/01/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1RS_EZxZ6KsSik7UO4fUBsfw8Ki8Pa9hK/view?usp=sharing
+
+Aula prática (18/01/2024 - 18/01/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+Interrupção e exceção (23/01/2024 - 23/01/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1DCSZ2_6z9_O_RLtnF3QQYp9avQ29JvN4/view?usp=sharing
+
+Aula prática (25/01/2024 - 25/01/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+Entrada e saída (30/01/2024 - 30/01/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1UeodqKaTuUImVbRhcIBn_OA6BXs2SzT3/view?usp=sharing
+
+Aula prática (01/02/2024 - 01/02/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+Mecanismos de interconexão (06/02/2024 - 06/02/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1Ej7ftYEBpEcBJUo0WKJvw1ZzfaoyqJXl/view?usp=sharing
+
+Multiciclo e pipeline (08/02/2024 - 08/02/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1ZNcTn9FJ5pTwg5oZJx284CW2xF6jGST_/view?usp=sharing
+
+Aula prática (15/02/2024 - 15/02/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+Aula de adequação ao calendário
+
+Conflitos de execução (20/02/2024 - 20/02/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1ov2FKlmNsMdvTlthDz4VbbV4uP6-Jbe_/view?usp=sharing
+
+Segunda prova (22/02/2024 - 22/02/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+Local: ???
+
+Horário: 15:00 até 16:40
+
+Link: https://bruno.dcomp.ufs.br/aulas/arq/prova
+
+Hierarquia de memória (27/02/2024 - 27/02/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1YwbZXbHc4wZQyfUZh5zPUzBdoAHkhLYx/view?usp=sharing
+
+Gerenciamento de cache (29/02/2024 - 29/02/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1vyOsyid-B6Gabjvqd6QbRbimTpyPMcaH/view?usp=sharing
+
+Aula prática (05/03/2024 - 05/03/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+Memória virtual (07/03/2024 - 07/03/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1j8Om3VIUAKLosIg54jOm7SyUnQg-bkhf/view?usp=sharing
+
+Superescalar (12/03/2024 - 12/03/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1KmxzzEhhT6ETXiAPCz0od7IMmrizl-5f/view?usp=sharing
+
+Aula prática (14/03/2024 - 14/03/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+Multiprocessamento (19/03/2024 - 19/03/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1HhfPDVw7vdTAlbtVBH766nApupL1r8zY/view?usp=sharing
+
+Aula prática (21/03/2024 - 21/03/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+Paralelismo de software (26/03/2024 - 26/03/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1BEN0GI5kc2uCrxH3C-Ioa4d325Ir5HvF/view?usp=sharing
+
+Aula prática (02/04/2024 - 02/04/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+Avaliação de desempenho (04/04/2024 - 04/04/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+https://drive.google.com/file/d/1ns7D4-jgqyChSbZ4XLaEVLksgSWYlGUv/view?usp=sharing
+
+Aula prática (09/04/2024 - 09/04/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+Terceira prova (11/04/2024 - 11/04/2024) - Local: SALA DE AULA - DID 4 - 110 | SALA DE AULA - DID 4 - 111
+Local: ???
+
+Horário: 15:00 até 16:40
+
+Link: https://bruno.dcomp.ufs.br/aulas/arq/prova

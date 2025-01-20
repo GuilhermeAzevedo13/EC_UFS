@@ -1,0 +1,82 @@
+SciDAVis 2.2.7 project file
+<scripting-lang>	muParser
+<windows>	1
+<table>
+10733
+<table creation_time="2023-26-03 19:48:48:759" caption_spec="%n%C{ - }%c" name="Table1" columns="6" rows="30"><comment><![CDATA[]]></comment><column creation_time="2023-26-03 19:48:48:759" caption_spec="%n%C{ - }%c" name="tempo" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2023-26-03 19:48:48:759" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2023-26-03 19:48:48:759" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0387000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">9.1900000000000004e-01</row><row type="TypeDouble" index="2" invalid="no">1.1581999999999999e+00</row><row type="TypeDouble" index="3" invalid="no">7.9630000000000001e-01</row><row type="TypeDouble" index="4" invalid="no">1.0176000000000001e+00</row><row type="TypeDouble" index="5" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="6" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="7" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="8" invalid="yes">0.0000000000000000e+00</row><row type="TypeDouble" index="9" invalid="yes">0.0000000000000000e+00</row></column><column creation_time="2023-26-03 19:48:48:759" caption_spec="%n%C{ - }%c" name="tempo error" type="TypeDouble" mode="Numeric" plot_designation="xErr"><comment><![CDATA[Xf - Xo]]></comment><input_filter><simple_filter creation_time="2023-26-03 19:48:48:759" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2023-26-03 19:48:48:759" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">4.8999999999999998e-03</row><row type="TypeDouble" index="1" invalid="no">1.2999999999999999e-03</row><row type="TypeDouble" index="2" invalid="no">4.7000000000000002e-03</row><row type="TypeDouble" index="3" invalid="no">4.7000000000000002e-03</row><row type="TypeDouble" index="4" invalid="no">2.3000000000000000e-03</row></column><column creation_time="2023-26-03 19:49:04:948" caption_spec="%n%C{ - }%c" name="Delta X " type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2023-26-03 19:49:04:948" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2023-26-03 19:49:04:948" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">7.0299999999999996e-01</row><row type="TypeDouble" index="1" invalid="no">5.6589999999999996e-01</row><row type="TypeDouble" index="2" invalid="no">8.5340000000000005e-01</row><row type="TypeDouble" index="3" invalid="no">4.2030000000000001e-01</row><row type="TypeDouble" index="4" invalid="no">6.6080000000000005e-01</row></column><column creation_time="2023-26-03 19:49:06:610" caption_spec="%n%C{ - }%c" name="Delta X error" type="TypeDouble" mode="Numeric" plot_designation="yErr"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2023-26-03 19:49:06:610" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2023-26-03 19:49:06:610" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">5.0000000000000001e-04</row><row type="TypeDouble" index="1" invalid="no">5.0000000000000001e-04</row><row type="TypeDouble" index="2" invalid="no">5.0000000000000001e-04</row><row type="TypeDouble" index="3" invalid="no">5.0000000000000001e-04</row><row type="TypeDouble" index="4" invalid="no">5.0000000000000001e-04</row></column><column creation_time="2023-26-03 19:58:14:060" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2023-26-03 19:58:14:060" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2023-26-03 19:58:14:060" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">col(&quot;tempo&quot;)*col(&quot;tempo&quot;)</formula><row type="TypeDouble" index="0" invalid="no">1.0788976900000000e+00</row><row type="TypeDouble" index="1" invalid="no">8.4456100000000012e-01</row><row type="TypeDouble" index="2" invalid="no">1.3414272399999998e+00</row><row type="TypeDouble" index="3" invalid="no">6.3409369000000004e-01</row><row type="TypeDouble" index="4" invalid="no">1.0355097600000001e+00</row><row type="TypeDouble" index="5" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="8" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="10" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="11" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="12" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="13" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="14" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="15" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="16" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="17" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="18" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="19" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="20" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="23" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="24" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="25" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="26" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="27" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="28" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="29" invalid="no">0.0000000000000000e+00</row></column><column creation_time="2023-26-03 19:59:57:050" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="xErr"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2023-26-03 19:59:57:050" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2023-26-03 19:59:57:050" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><formula start_row="0" end_row="29">col(&quot;tempo error&quot;)*col(&quot;tempo error&quot;)</formula><row type="TypeDouble" index="0" invalid="no">2.4009999999999999e-05</row><row type="TypeDouble" index="1" invalid="no">1.6899999999999999e-06</row><row type="TypeDouble" index="2" invalid="no">2.2090000000000000e-05</row><row type="TypeDouble" index="3" invalid="no">2.2090000000000000e-05</row><row type="TypeDouble" index="4" invalid="no">5.2900000000000002e-06</row><row type="TypeDouble" index="5" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="8" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="10" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="11" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="12" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="13" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="14" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="15" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="16" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="17" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="18" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="19" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="20" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="23" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="24" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="25" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="26" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="27" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="28" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="29" invalid="no">0.0000000000000000e+00</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">145</column_width><column_width column="4">70</column_width><column_width column="5">76</column_width></table>
+geometry	88	2	940	414	active
+
+</table>
+<log>
+[domingo, 26 de março de 2023 20:25:54 Hora oficial do Brasil	Plot: ''Graph1'']
+Non-linear fit of dataset: Table1_Delta X , using function: Δd = 0.5a*x² + v0*x + d0
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0,7963 to x = 1,1582
+Δd  = 0 +/- 7,84460820806195e-157
+a  = 0 +/- 5,8728247726109e-154
+v0  = 0 +/- 3,23769350122313e-156
+d0  = 0 +/- 0
+--------------------------------------------------------------------------------------
+Chi^2 = -1
+R^2 = 1,4638106843522
+---------------------------------------------------------------------------------------
+Iterations = 494
+Status = invalid argument supplied by user
+---------------------------------------------------------------------------------------
+[domingo, 26 de março de 2023 20:31:49 Hora oficial do Brasil	Plot: ''Graph1'']
+Polynomial fit of dataset: Table1_Delta X , using function: a0+a1*x+a2*x^2
+Y standard errors: Unknown
+From x = 0,7963 to x = 1,1582
+a0  = -0,165675954130826 +/- 0,327012469830136
+a1  = 0,432404503132406 +/- 0,678324939297368
+a2  = 0,385067613847412 +/- 0,347716901873394
+--------------------------------------------------------------------------------------
+Chi^2 = 0,000257525955849342
+R^2 = 0,999880556710179
+---------------------------------------------------------------------------------------
+[domingo, 26 de março de 2023 20:33:24 Hora oficial do Brasil	Plot: ''Graph1'']
+Polynomial fit of dataset: Table1_Delta X , using function: a0+a1*x+a2*x^2
+Y standard errors: Unknown
+From x = 0,7963 to x = 1,1582
+a0  = -0,165675954130826 +/- 0,327012469830136
+a1  = 0,432404503132406 +/- 0,678324939297368
+a2  = 0,385067613847412 +/- 0,347716901873394
+--------------------------------------------------------------------------------------
+Chi^2 = 0,000257525955849342
+R^2 = 0,999880556710179
+---------------------------------------------------------------------------------------
+[domingo, 26 de março de 2023 20:33:26 Hora oficial do Brasil	Plot: ''Graph1'']
+Polynomial fit of dataset: Table1_Delta X , using function: a0+a1*x+a2*x^2
+Y standard errors: Unknown
+From x = 0,7963 to x = 1,1582
+a0  = -0,165675954130826 +/- 0,327012469830136
+a1  = 0,432404503132406 +/- 0,678324939297368
+a2  = 0,385067613847412 +/- 0,347716901873394
+--------------------------------------------------------------------------------------
+Chi^2 = 0,000257525955849342
+R^2 = 0,999880556710179
+---------------------------------------------------------------------------------------
+[domingo, 26 de março de 2023 20:33:26 Hora oficial do Brasil	Plot: ''Graph1'']
+Polynomial fit of dataset: Table1_Delta X , using function: a0+a1*x+a2*x^2
+Y standard errors: Unknown
+From x = 0,7963 to x = 1,1582
+a0  = -0,165675954130826 +/- 0,327012469830136
+a1  = 0,432404503132406 +/- 0,678324939297368
+a2  = 0,385067613847412 +/- 0,347716901873394
+--------------------------------------------------------------------------------------
+Chi^2 = 0,000257525955849342
+R^2 = 0,999880556710179
+---------------------------------------------------------------------------------------
+[domingo, 26 de março de 2023 20:33:26 Hora oficial do Brasil	Plot: ''Graph1'']
+Polynomial fit of dataset: Table1_Delta X , using function: a0+a1*x+a2*x^2
+Y standard errors: Unknown
+From x = 0,7963 to x = 1,1582
+a0  = -0,165675954130826 +/- 0,327012469830136
+a1  = 0,432404503132406 +/- 0,678324939297368
+a2  = 0,385067613847412 +/- 0,347716901873394
+--------------------------------------------------------------------------------------
+Chi^2 = 0,000257525955849342
+R^2 = 0,999880556710179
+---------------------------------------------------------------------------------------
+</log>
