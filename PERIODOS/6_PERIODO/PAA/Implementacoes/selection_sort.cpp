@@ -1,34 +1,36 @@
-// Entrada: Uma sequência de n números 〈a1, a2, ..., an〉.
-// Saída: Uma permutação (reordenação) 〈a′1, a′2,..., a′n〉 da sequência de entrada, tal que a′1≤ a′2≤ ... ≤ a′n.
 #include <iostream>
 #include <vector>
 using namespace std;
 
-class InsertionSorter {
+class SelectionSort {
 private:
     vector<int> data; // Dados a serem ordenados
 
 public:
     // Construtor para inicializar os dados
-    InsertionSorter(const vector<int>& input) : data(input) {}
+    SelectionSort(const vector<int>& input) : data(input) {}
 
-    // Método para realizar o Insertion Sort
+    // Método para realizar o Selection Sort
     void sort() {
-        int n = data.size();
-        for (int i = 1; i < n; i++) {
-            int chave = data[i];
-            int j = i - 1;
+    int tamanho = data.size();
 
-            // Mover os elementos maiores que 'chave' uma posição à frente
-            while (j >= 0 && data[j] > chave) {
-                data[j + 1] = data[j];
-                j--;
+    for (int i = 0; i < tamanho - 1; i++) {
+        int minIndex = i; // Índice do menor elemento encontrado
+        for (int j = i + 1; j < tamanho; j++) {
+            if (data[j] < data[minIndex]) {
+                minIndex = j; // Atualiza o índice do menor elemento
             }
+        }
 
-            // Inserir a 'chave' na posição correta
-            data[j + 1] = chave;
+        // Troca o menor elemento encontrado com o elemento da posição atual
+        if (minIndex != i) {
+            int aux = data[i];
+            data[i] = data[minIndex];
+            data[minIndex] = aux;
         }
     }
+}
+
 
     // Método para imprimir os dados
     void print() const {
@@ -59,7 +61,7 @@ int main() {
     vector<int> numeros(vetor, vetor + size_array);
 
     // Criar objeto da classe InsertionSorter
-    InsertionSorter sorter(numeros);
+    SelectionSort sorter(numeros);
 
     // Aplicar o método de ordenação
     sorter.sort();
@@ -73,4 +75,3 @@ int main() {
 
     return 0;
 }
-
