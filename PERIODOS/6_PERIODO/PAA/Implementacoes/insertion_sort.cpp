@@ -64,6 +64,13 @@ int main() {
     // Aplicar o método de ordenação
     sorter.sort();
 
+    // Exibir os valores originais
+    cout << "Array original: ";
+    for (int i = 0; i < size_array; i++) {
+        cout << vetor[i] << " ";
+    }
+    printf("\n");
+
     // Exibir os valores ordenados
     cout << "Array ordenado: ";
     sorter.print();

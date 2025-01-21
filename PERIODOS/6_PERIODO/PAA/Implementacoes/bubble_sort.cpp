@@ -2,31 +2,36 @@
 #include <vector>
 using namespace std;
 
-class SelectionSort {
+class BubbleSort {
 private:
     vector<int> data; // Dados a serem ordenados
 
 public:
     // Construtor para inicializar os dados
-    SelectionSort(const vector<int>& input) : data(input) {}
+    BubbleSort(const vector<int>& input) : data(input) {}
 
-    // Método para realizar o Selection Sort
+    // Método para realizar o Bubble Sort
     void sort() {
       int tamanho = data.size();
+      bool trocar;
 
       for (int i = 0; i < tamanho - 1; i++) {
-          int menorIndex = i; // Índice do menor elemento encontrado
-          for (int j = i + 1; j < tamanho; j++) {
-              if (data[j] < data[menorIndex]) {
-                  menorIndex = j; // Atualiza o índice do menor elemento
+          trocar = false; // Variável para verificar se houve troca
+
+          for (int j = 0; j < tamanho - i - 1; j++) {
+              if (data[j] > data[j + 1]) {
+                  // Troca os elementos adjacentes
+                  int temp = data[j];
+                  data[j] = data[j + 1];
+                  data[j + 1] = temp;
+
+                  trocar = true;
               }
           }
 
-          // Troca o menor elemento encontrado com o elemento da posição atual
-          if (menorIndex != i) {
-              int aux = data[i];
-              data[i] = data[menorIndex];
-              data[menorIndex] = aux;
+          // Se nenhuma troca foi feita, o array está ordenado
+          if (!trocar) {
+              break;
           }
       }
     }
@@ -61,7 +66,7 @@ int main() {
     vector<int> numeros(vetor, vetor + size_array);
 
     // Criar objeto da classe InsertionSorter
-    SelectionSort sorter(numeros);
+    BubbleSort sorter(numeros);
 
     // Aplicar o método de ordenação
     sorter.sort();
